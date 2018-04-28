@@ -1,3 +1,19 @@
+Package: com.squ1dd13.fakehaptivator
+Version: 0.0.1-12+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 316
+Depends: mobilesubstrate, libactivator
+Filename: ./debs/com.squ1dd13.fakehaptivator_0.0.1-12+debug_iphoneos-arm.deb
+Size: 23200
+MD5sum: e27e35dbe04efc97a3c2979ff3c032ae
+SHA1: ed345b6016a31dd140736bd1ae084be189343efa
+SHA256: 546fc18d5e68148254c38eeab436901282fae52136f205d335766ea8e2fedd46
+Section: Tweaks
+Description: A tweak to do … and …
+Author: Squ1dd13
+Name: FakeHaptivator
+
 Package: com.squ1dd13.redditrandom
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm
