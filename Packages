@@ -1,3 +1,19 @@
+Package: com.squ1dd13.calculatorxi
+Version: 0.0.1-506+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.calculatorxi_0.0.1-506+debug_iphoneos-arm.deb
+Size: 17780
+MD5sum: 94694c9c64529de51a68667ffe2e5824
+SHA1: fb655fa1dfa5432886f7ce37bdf6a8fe2533290f
+SHA256: 4be2a1634d833d25438dab13055cdf1b3c235f35fcbe5bb2ad1682314cde8066
+Section: Tweaks
+Description: A tweak to do … and …
+Author: Squ1dd13
+Name: CalculatorXI
+
 Package: com.squ1dd13.fakehaptivator
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
