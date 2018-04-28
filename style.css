@@ -17,10 +17,10 @@ a {
 	text-decoration: none;
 }
 h1.main, p.demos {
-	-webkit-animation-delay: 18s;
-	-moz-animation-delay: 18s;
-	-ms-animation-delay: 18s;
-	animation-delay: 18s;
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	animation-delay: 1s;
 }
 .sp-container {
 	position: fixed;
@@ -146,10 +146,10 @@ h1.main, p.demos {
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
-	-webkit-animation: fadeInRotate 1s linear 16s backwards;
-	-moz-animation: fadeInRotate 1s linear 16s backwards;
-	-ms-animation: fadeInRotate 1s linear 16s backwards;
-	animation: fadeInRotate 1s linear 16s backwards;
+	-webkit-animation: fadeInRotate 1s linear 1s backwards;
+	-moz-animation: fadeInRotate 1s linear 1s backwards;
+	-ms-animation: fadeInRotate 1s linear 1s backwards;
+	animation: fadeInRotate 1s linear 1s backwards;
 	-webkit-transform: scale(1) rotate(0deg);
 	-moz-transform: scale(1) rotate(0deg);
 	-o-transform: scale(1) rotate(0deg);

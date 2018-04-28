@@ -14,6 +14,22 @@ Description: A tweak to do … and …
 Author: Squ1dd13
 Name: FakeHaptivator
 
+Package: com.squ1dd13.invisimask
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.invisimask_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3634
+MD5sum: 6d209898bb3a6411e13494843a29ea46
+SHA1: 736c206171670c7c260f7f7df9254efa43d4a3be
+SHA256: b74a943e22d6c7f6ede3f48237b09a293b798b77ce07218216ff3d0a32b8b61e
+Section: Tweaks
+Description: Remove the mask from around the CC toggles in iOS 11 (when the toggle is on). This will keep the change of colour for the glyph.
+Author: Squ1dd13
+Name: InvisiMask
+
 Package: com.squ1dd13.redditrandom
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm
