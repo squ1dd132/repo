@@ -19,5 +19,5 @@ dpkg-scanpackages -m ./ /dev/null > Packages;
 git init
 #git remote add origin /Volumes/SD/ca13ra1.github.io-master/repo/.git/
 git add -A
-git commit -m "Repo stuff"
+git commit -m "Update repo content"
 git push origin master

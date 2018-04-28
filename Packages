@@ -62,3 +62,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: Squ1dd13
 Name: PartyReddit
 
+Package: com.squ1dd13.ringertester
+Version: 0.0.1-59
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 144
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: ./debs/com.squ1dd13.ringertester_0.0.1-59_iphoneos-arm.deb
+Size: 5334
+MD5sum: afe3488cf7d7d85a2217012667c891c2
+SHA1: 85e86c8ebccdd44e9c579d3f7405495e60fdbf8e
+SHA256: a0dc48b520853ea869f4b3f980bd2b870ce0f7eb2802b617097576d72399a153
+Section: Tweaks
+Description: Test your ringer volume
+Author: Squ1dd13
+Name: RingerTester
+
