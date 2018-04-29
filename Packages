@@ -143,6 +143,38 @@ Author: Squ1dd13
 Name: AltCydia
 
 Package: com.squ1dd13.altcydia
+Version: 0.0.1-18+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.altcydia_0.0.1-18+debug_iphoneos-arm.deb
+Size: 4910
+MD5sum: 256c09e99074b1f88ec03eb79bfd4912
+SHA1: c8bfc00b544416d25e300cca42ec53e70e6e985c
+SHA256: 6a649ec18d952b2634c1cc9e81a56f96bd46f1c30057fe7ae360a462fc94831d
+Section: Tweaks
+Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
+Author: Squ1dd13
+Name: AltCydia
+
+Package: com.squ1dd13.altcydia
+Version: 0.0.1-19+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.altcydia_0.0.1-19+debug_iphoneos-arm.deb
+Size: 4894
+MD5sum: 32391f8bd868230083d9c5032785de84
+SHA1: bc9918d9cdbc92e0f8b8930ad0369c43eab0c523
+SHA256: d7dc9eb95dbd0ba94b8cdcd1356b0e14af821c82e25f1e8ac6bac6bee07bcbef
+Section: Tweaks
+Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
+Author: Squ1dd13
+Name: AltCydia
+
+Package: com.squ1dd13.altcydia
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: Squ1dd13
@@ -153,6 +185,22 @@ Size: 3994
 MD5sum: 824e466f21f7c83efb67b948377ae0be
 SHA1: bb227d6ebe9c2fb46908f1b52bdc396230e3598f
 SHA256: 05ab4429d0b9a860f18935dcf6e5c9c24cc9929ba3fb0a0f2fbd810a55831764
+Section: Tweaks
+Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
+Author: Squ1dd13
+Name: AltCydia
+
+Package: com.squ1dd13.altcydia
+Version: 0.0.1-20+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.altcydia_0.0.1-20+debug_iphoneos-arm.deb
+Size: 4274
+MD5sum: 8dc0c8a73729163b8638b261c4254f0d
+SHA1: 276e9688f113c0491dcc7c555bf1f1166c0c1b2d
+SHA256: aae1e3e24087fc682930e2e52977c7538f6dbbc54f70cc3943112a8c6cb1e4fd
 Section: Tweaks
 Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
 Author: Squ1dd13
