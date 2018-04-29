@@ -111,6 +111,38 @@ Author: Squ1dd13
 Name: AltCydia
 
 Package: com.squ1dd13.altcydia
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.altcydia_0.0.1-16+debug_iphoneos-arm.deb
+Size: 4924
+MD5sum: f2d6c1df03ebdc6650c3aba610bac74a
+SHA1: 7fdfef37c75b0113a4444c0a1a3601da047f5f71
+SHA256: 3c612003c06bcdba94431e7d01bf1e0e2a069cdcba425c25cd51168443506c23
+Section: Tweaks
+Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
+Author: Squ1dd13
+Name: AltCydia
+
+Package: com.squ1dd13.altcydia
+Version: 0.0.1-17+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.altcydia_0.0.1-17+debug_iphoneos-arm.deb
+Size: 4902
+MD5sum: 657e4ab03a3eea0e1e3bb5bb2bb76355
+SHA1: 4e89f87704e010e33b48129839832af34ecf0674
+SHA256: 277bf018d6c32c0e8b02c75057e9dbf4609bd12d661bfc4532fb433b5e997f03
+Section: Tweaks
+Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
+Author: Squ1dd13
+Name: AltCydia
+
+Package: com.squ1dd13.altcydia
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: Squ1dd13
