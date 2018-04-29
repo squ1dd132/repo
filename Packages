@@ -255,6 +255,22 @@ Author: Squ1dd13
 Name: AltCydia
 
 Package: com.squ1dd13.altcydia
+Version: 0.0.1-24+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.altcydia_0.0.1-24+debug_iphoneos-arm.deb
+Size: 4798
+MD5sum: 83e9ec8b6d9407d60a12c4983df582a1
+SHA1: 48bd1647c162a4f954ce456f16c653245fa57c34
+SHA256: 8650411181b1fa9e29d5d2351959a83c8c0c15f408fd5392129dee5a9109c3a1
+Section: Tweaks
+Description: A redesigned, updated Cydia homepage. Only for iPads currently, coming to iPhone soon!
+Author: Squ1dd13
+Name: AltCydia
+
+Package: com.squ1dd13.altcydia
 Version: 0.0.1-3+debug
 Architecture: iphoneos-arm
 Maintainer: Squ1dd13
