@@ -47,16 +47,16 @@ Author: Squ1dd13
 Name: FakeHaptivator
 
 Package: com.squ1dd13.glacier
-Version: 0.0.1-6+debug
+Version: 0.0.1-7+debug
 Architecture: iphoneos-arm
 Maintainer: Squ1dd13
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: ./debs/com.squ1dd13.glacier_0.0.1-6+debug_iphoneos-arm.deb
-Size: 5702
-MD5sum: 20111f135aea9681337129a4be863edd
-SHA1: 56eb4e9f8cf87d061fac4e31ac06383b3cbc476b
-SHA256: ad68a20a5eec1914e94169b422eae4926513469a742b4f5637f3c1d7fabd69ec
+Filename: ./debs/com.squ1dd13.glacier_0.0.1-7+debug_iphoneos-arm.deb
+Size: 5788
+MD5sum: 0de22b0f42764db4ec409cde6c8d8879
+SHA1: 14d7e1686d418d9875eb7ec7eb752b742c96240b
+SHA256: 5c6ff578c49ae9d4a705f3f87d67815dd2e95a84fb27ad54ae1d6c970262f330
 Section: Tweaks
 Description: Give the iOS 11 CC a transparent UI! This tweak is in BETA and I accept zero responsibility for damage caused to your device as a result of installing this tweak.
 Author: Squ1dd13
