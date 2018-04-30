@@ -494,3 +494,19 @@ Description: Test your ringer volume
 Author: Squ1dd13
 Name: RingerTester
 
+Package: com.squ1dd13.volflash
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.volflash_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6006
+MD5sum: 01be65e9057379ba49778a8f6b9a04f4
+SHA1: b477c2e6b403911894d197b05d62649f4e245a45
+SHA256: e7f43e60b2c332bd90c7519460f73c93caf90407f7dab85423ac9af053ec8890
+Section: Tweaks
+Description: A tweak to do … and …
+Author: Squ1dd13
+Name: VolFlash
+
