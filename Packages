@@ -1,14 +1,14 @@
 Package: com.squ1dd13.3dflatbg
-Version: 0.0.1-20+debug
+Version: 0.0.1-21+debug
 Architecture: iphoneos-arm
 Maintainer: Squ1dd13
 Installed-Size: 140
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.squ1dd13.3dflatbg_0.0.1-20+debug_iphoneos-arm.deb
-Size: 9058
-MD5sum: 4de9cfc62b5375a99f8472359852f839
-SHA1: 6969d574180ef8b5f8a70425ef6deeeaa68f980d
-SHA256: 6a1670aefa0b1e63b04fbf902a884b29e334402a80e6efd03c026df6b5206fe9
+Filename: ./debs/com.squ1dd13.3dflatbg_0.0.1-21+debug_iphoneos-arm.deb
+Size: 9198
+MD5sum: 517e510c890b659fb2d72ccd1598fe8d
+SHA1: 189aae939cf323cd311eacffb2f586fabb43310c
+SHA256: 2e9d684d1a6eba97ed00b50c3b4f4844c871e669d2518ea9f43bdfded3e6e819
 Section: Tweaks
 Description: Use an application’s icon colour to create a flat 3D Touch menu background. Think Cuttlefish, but flat.
 Author: Squ1dd13
