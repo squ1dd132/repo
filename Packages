@@ -287,6 +287,22 @@ Description: Give the iOS 11 CC a transparent UI! This tweak is in BETA and I ac
 Author: Squ1dd13
 Name: Glacier
 
+Package: com.squ1dd13.glacier
+Version: 0.0.1-40+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.glacier_0.0.1-40+debug_iphoneos-arm.deb
+Size: 20154
+MD5sum: 8e1bce5b127a7d3ca9f7c0740b74de62
+SHA1: efe3fa7a22a942162ad36452fd42823619e6f78b
+SHA256: b23a28970c6b08f7ed0041ff5aa4323b09ea7f2c8ab7d00771bba051d1adccbb
+Section: Tweaks
+Description: Give the iOS 11 CC a transparent UI! This tweak is in BETA and I accept zero responsibility for damage caused to your device as a result of installing this tweak.
+Author: Squ1dd13
+Name: Glacier
+
 Package: com.squ1dd13.invisimask
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
