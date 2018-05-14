@@ -271,6 +271,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Squ1dd13
 Name: Cymodern
 
+Package: com.squ1dd13.cymodern
+Version: 0.0.1-101+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.cymodern_0.0.1-101+debug_iphoneos-arm.deb
+Size: 28244
+MD5sum: 2bc9dc3d5ffeade8eeab53706ccabb11
+SHA1: 6e4eb8b4744318230f2659198c7a98687367f6e2
+SHA256: 7b542fce1b53134e3865023e91f80ec4b88dcb40f7c4c314327de7ad2b969018
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Squ1dd13
+Name: Cymodern
+
 Package: com.squ1dd13.fakehaptivator
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
