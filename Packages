@@ -255,6 +255,22 @@ Description: A tweak to do … and …
 Author: Squ1dd13
 Name: CalculatorXI
 
+Package: com.squ1dd13.cymodern
+Version: 0.0.1-100+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.cymodern_0.0.1-100+debug_iphoneos-arm.deb
+Size: 28098
+MD5sum: 2a3d6696f013e3fb40d259792bded676
+SHA1: 4dd90c2b25668b338eb308364d8160306e59445c
+SHA256: 8377ee75aeed863593aa99a8c2834cad7d35412f6fb95e1e2d988b34c2e2dabe
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Squ1dd13
+Name: Cymodern
+
 Package: com.squ1dd13.fakehaptivator
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
