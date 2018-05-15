@@ -287,6 +287,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Squ1dd13
 Name: Cymodern
 
+Package: com.squ1dd13.cymodern
+Version: 0.0.1-102+debug
+Architecture: iphoneos-arm
+Maintainer: Squ1dd13
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.squ1dd13.cymodern_0.0.1-102+debug_iphoneos-arm.deb
+Size: 28588
+MD5sum: 7b1763c588bcd09887c9edd89a899ff6
+SHA1: b6c1da029c21710e59bf8b545ec7e5ff46aad0bc
+SHA256: 977b605ed55bd5e3c76884ad77c046435e8a8ab76fc6b9e45ba415679c06c9f8
+Section: Tweaks
+Description: Custom gradients for the Cydia UI. Only works properly once you have chosen colours in Settings.app.
+Author: Squ1dd13
+Name: Cymodern
+
 Package: com.squ1dd13.fakehaptivator
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
